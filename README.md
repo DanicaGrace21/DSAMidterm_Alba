@@ -25,3 +25,8 @@ In 2011, Facebook was facing the challenge of improving user experience by build
 <h4 style="font-weight: bold;">Step 1: Adding CDN Scripts to HTML</h4>
 <h4 style="font-weight: bold;">Step 2: Marking the Render Location on Your Website</h4>
 <h4 style="font-weight: bold;">Step 3: Crafting the React Component</h4>
+
+<h2 style="color: lightpink; font-weight: bold;">1 Fact About React JS</h2>
+
+**React is not a framework**
+-- The short answer is that React is a JavaScript library, but the fact remains that it has several characteristics of a framework. It's just a library for rendering your views.
