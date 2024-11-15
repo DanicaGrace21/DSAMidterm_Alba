@@ -8,4 +8,4 @@ In 2011, Facebook was facing the challenge of improving user experience by build
 
 <h2 style="color: lightpink; font-weight: bold;">How Does React JS Do?</h2>
 
-```When you click a link on a webpage, your browser sends a request to the server to load the new page.```
+```When you click a link on a webpage, your browser sends a request to the server to load the new page.
